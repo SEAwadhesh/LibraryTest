@@ -14,3 +14,7 @@ allprojects {
   Add in Gradle file
   
       implementation 'com.github.SEAwadhesh:LibraryTest:0.1.0'
+      
+  Implement the method
+   
+     ToastMessage.showToast(context,"Your Message");
