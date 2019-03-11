@@ -4,7 +4,9 @@ A simple library to show toast
 
 
 allprojects {
+
 		repositories {
+		
 			...
 			maven { url 'https://jitpack.io' }
 		}
